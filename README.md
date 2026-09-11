@@ -1,103 +1,58 @@
 <p align="center">
-  <img src="docs/banner.png" alt="manansbdb profile banner" width="100%" />
+  <img src="docs/banner.png" alt="manansbdb" width="100%" />
 </p>
 
-<h1 align="center">@manansbdb</h1>
+<h1 align="center">Matheus · @manansbdb</h1>
 
 <p align="center">
-  <strong>EN</strong> Engineering · open source · practical day-to-day tools · <em>professional bilingual docs</em><br/>
-  <strong>PT</strong> Engenharia · open source · ferramentas práticas · <em>documentação profissional bilingue</em>
+  <strong>EN</strong> Privacy-first open source tools that run in your browser.<br/>
+  <strong>PT</strong> Ferramentas open source, privacidade primeiro, no teu browser.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/repos-~50_public-6366f1?style=for-the-badge" alt="repos" />
+  <a href="https://manansbdb.github.io/everyday-tools/"><img src="https://img.shields.io/badge/try_demo-Everyday_Tools-6366f1?style=for-the-badge" alt="demo" /></a>
   <img src="https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge" alt="MIT" />
-  <img src="https://img.shields.io/badge/docs-EN%20%7C%20PT-3b82f6?style=for-the-badge" alt="EN PT" />
+  <img src="https://img.shields.io/badge/processing-100%25_local-0ea5e9?style=for-the-badge" alt="local" />
   <a href="#support--apoio"><img src="https://img.shields.io/badge/donate-BTC-f59e0b?style=for-the-badge" alt="BTC" /></a>
 </p>
 
 ---
 
-## What you'll find here / O que encontras aqui
+## Latest / Mais recente
 
-Kits, starters and **professional documentation repos** you can **clone and use immediately** — CI, Docker, API design, testing, Redis, GraphQL, Playwright, and more.
+### [Everyday Tools](https://github.com/manansbdb/everyday-tools) — free browser utilities
 
-Kits, starters e **repos de documentação profissional** para **clonar e usar já** — CI, Docker, APIs, testes, Redis, GraphQL, Playwright, e mais.
+Images · PDFs · QR · text · money math. **Everything stays on your device.** No signup, no trackers, no server upload.
 
-```mermaid
-mindmap
-  root((manansbdb))
-    Kits
-      engenharia-kit
-      github-actions-templates
-      docker-compose-starters
-    Docs
-      api-versioning-guide
-      postgres-migrations-guide
-      testing-pyramid-notes
-    Data
-      cyberchef-recipes
-      sql-snippets
-      regex-cheatsheet
-    Quality
-      playwright-starter
-      eslint-prettier-preset
-      security-checklist-defensive
-```
+Imagens · PDFs · QR · texto · dinheiro. **Tudo fica no teu dispositivo.** Sem conta, sem trackers, sem upload.
+
+→ **[Open the demo](https://manansbdb.github.io/everyday-tools/)** · [source](https://github.com/manansbdb/everyday-tools)
 
 ---
 
-## Featured / Destaques
+## What I ship / O que entrego
 
-| Repo | What it is / O que é | Install |
-|------|----------------------|---------|
-| [cyberchef-recipes](https://github.com/manansbdb/cyberchef-recipes) | Importable CyberChef recipes | `git clone` + Load recipe |
-| [engenharia-kit](https://github.com/manansbdb/engenharia-kit) | PR/issue/checklist kit | Copy `.github/` into your repo |
-| [github-actions-templates](https://github.com/manansbdb/github-actions-templates) | CI workflow templates | Copy workflows |
-| [docker-compose-starters](https://github.com/manansbdb/docker-compose-starters) | Compose stacks | `docker compose up` |
-| [security-checklist-defensive](https://github.com/manansbdb/security-checklist-defensive) | Defensive security checklist | Read / adapt |
-| [typescript-tsconfig-presets](https://github.com/manansbdb/typescript-tsconfig-presets) | Strict tsconfig bases | Extend in `tsconfig.json` |
-| [playwright-starter](https://github.com/manansbdb/playwright-starter) | Minimal Playwright E2E | `npm i && npx playwright install` |
-| [api-versioning-guide](https://github.com/manansbdb/api-versioning-guide) | API versioning strategies | Copy markdown into `docs/` |
+| Project | What it does | Try |
+|---------|--------------|-----|
+| **[everyday-tools](https://github.com/manansbdb/everyday-tools)** | Privacy-first utilities in the browser | [live demo](https://manansbdb.github.io/everyday-tools/) |
+| [cyberchef-recipes](https://github.com/manansbdb/cyberchef-recipes) | Ready-to-import CyberChef recipes | clone + load |
+| [engenharia-kit](https://github.com/manansbdb/engenharia-kit) | PR / issue / checklist kit for engineering teams | copy `.github/` |
 
-📂 Full list: [repositories](https://github.com/manansbdb?tab=repositories)
-
----
-
-## How to use any kit / Como usar qualquer kit
-
-```bash
-git clone https://github.com/manansbdb/<repo-name>.git
-cd <repo-name>
-# follow the Install / Instalação section in that README
-```
-
-Every docs repo includes: bilingual EN+PT README, unique `docs/banner.svg`, mermaid diagram, real Install commands, MIT license, and Support.
-
-Cada repo de docs inclui: README bilingue EN+PT, `docs/banner.svg` único, diagrama mermaid, comandos reais de Install, licença MIT e Apoio.
+Small focused tools > piles of empty starters.  
+Ferramentas focadas e úteis > dezenas de starters vazios.
 
 ---
 
 ## Support / Apoio
 
-### English
-If a project helps you, support with Bitcoin:
+If Everyday Tools (or anything here) helps you:
 
 ```
 bc1q0qfnlnxyum9u45stzxe0a7jnhtj4j0usfkqdjw
 ```
 
-**Network:** BTC (Bech32).
-
-### Português
-Se algum projeto te ajudar, apoia com Bitcoin:
-
-```
-bc1q0qfnlnxyum9u45stzxe0a7jnhtj4j0usfkqdjw
-```
-
-**Rede:** BTC (Bech32).
+**BTC** · Bech32
 
 ---
 
-<p align="center"><i>Build in public · MIT · no paywall · EN + PT · professional docs</i></p>
+<p align="center"><i>Build in public · MIT · client-side · EN + PT</i></p>
