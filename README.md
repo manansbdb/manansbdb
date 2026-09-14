@@ -10,6 +10,7 @@ Ferramentas open source, privacidade primeiro, no teu browser.
 [![Demo](https://img.shields.io/badge/▶_Live_demo-Everyday_Tools-6366f1?style=for-the-badge)](https://manansbdb.github.io/everyday-tools/)
 [![MIT](https://img.shields.io/badge/license-MIT-22c55e?style=for-the-badge)](https://github.com/manansbdb/everyday-tools/blob/main/LICENSE)
 [![Local](https://img.shields.io/badge/100%25_client--side-0ea5e9?style=for-the-badge)](https://github.com/manansbdb/everyday-tools)
+[![Sponsors](https://img.shields.io/badge/GitHub-Sponsors-ea4aaa?style=for-the-badge)](https://github.com/sponsors/manansbdb)
 [![BTC](https://img.shields.io/badge/donate-BTC-f59e0b?style=for-the-badge)](#support--apoio)
 
 </div>
@@ -47,7 +48,10 @@ Foco em **ferramentas pequenas que as pessoas abrem de verdade**.
 
 ## Support / Apoio
 
-If this helps you:
+Optional — never required to use the tools.
+
+- **[GitHub Sponsors](https://github.com/sponsors/manansbdb)** (monthly)
+- **Bitcoin**
 
 ```
 bc1q0qfnlnxyum9u45stzxe0a7jnhtj4j0usfkqdjw
